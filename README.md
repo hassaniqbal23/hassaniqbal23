@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @hassaniqbal23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @hassaniqbal23
 
-<!---
-hassaniqbal23/hassaniqbal23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in web development and open-source projects.
+
+🌱 I’m currently learning Next.js and improving my backend skills.
+
+💞️ I’m looking to collaborate on interesting web development projects.
+
+📫 How to reach me: Email me at hassaniqbalkiu@gmail.com or connect with me on LinkedIn.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
