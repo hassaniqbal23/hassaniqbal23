@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @hassaniqbal23<br><br>👀 I’m interested in web development and open-source projects.<br><br>🌱 I’m currently learning Next.js and improving my backend skills.<br><br>💞️ I’m looking to collaborate on interesting web development projects.<br><br>📫 How to reach me: Email me at hassaniqbalkiu@gmail.com or connect with me on LinkedIn.<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
-
+![](https://hit.yhype.me/github/profile?account_id=130131109)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hassaniqbal_235) 
 
