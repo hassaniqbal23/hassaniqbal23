@@ -16,7 +16,7 @@ I’m a Full Stack Developer focused on building **modern, fast, and scalable we
 - 🔐 Auth systems, APIs, dashboards, and SaaS development  
 - 🧩 Clean code advocate & performance optimization focused  
 
-I don’t just write code — I build systems that *scale and survive real-world traffic*.
+I don’t just write code — I build systems that scale in the real world.
 
 ---
 
@@ -29,7 +29,7 @@ React • Next.js • Svelte • TypeScript • Tailwind CSS • Redux • React
 Node.js • Express • Prisma • JWT • REST APIs • MySQL  
 
 **Tools & DevOps**  
-Git • GitHub • Vercel • Netlify • AWS • Docker (basic)  
+Git • GitHub • Vercel • Netlify • AWS  
 
 **UI/UX & Design**  
 Figma • Canva • Storybook  
@@ -43,7 +43,7 @@ Figma • Canva • Storybook
 - 💳 Authentication Systems (JWT, OAuth, NextAuth)  
 - 📊 Data-driven Platforms  
 - ⚡ High-performance Landing Pages  
-- 🔗 API-driven Full Stack Apps  
+- 🔗 Full Stack API-driven Applications  
 
 ---
 
@@ -62,17 +62,17 @@ Figma • Canva • Storybook
 
 ## 💬 Work Philosophy
 
-> “Code should not just work — it should be readable, scalable, and future-proof.”
+> “Code should not just work — it should be clean, scalable, and future-proof.”
 
-I prefer **clean architecture, reusable components, and performance-first development**.
+I focus on **performance, reusable architecture, and maintainable codebases**.
 
 ---
 
 ## 📬 Contact
 
 - 📧 Email: hassaniqbalkiu@gmail.com  
-- 📸 Instagram: [@hassaniqbal_235](https://instagram.com/hassaniqbal_235)  
-- 💼 Open for freelance & remote opportunities  
+- 💼 Upwork: [View My Freelancer Profile](https://www.upwork.com/freelancers/~0108faff150e2e5df7?mp_source=share)  
+- 🌐 Open for freelance & remote opportunities  
 
 ---
 
